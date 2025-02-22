@@ -1,16 +1,57 @@
-## Hi there 👋
+### ✨ Hey There, I'm Khadija!  
 
-<!--
-**xkhadiga/xkhadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Creative Front-End Developer** passionate about **aesthetic UI/UX** and building stunning, interactive web experiences with **React.js & JavaScript**. I love making the web **pretty, functional, and fabulous!** 🎀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📑 About Me  
+- 💻 Front-End Developer dedicated to **clean, intuitive web design**.  
+- 🎨 Love crafting **visually appealing and user-friendly interfaces**.  
+- 📚 Always learning and improving to stay ahead in **modern web technologies**.  
+- ☕️ Enthusiast of **code, creativity, and a good cup of coffee**.  
+
+---
+
+### 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,figma,github,vite,bootstrap,vscode" alt="Tech Stack Icons" />
+</p>  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xkhadiga&theme=tokyonight" alt="GitHub Summary"/>
+</p>
+
+---
+
+### ✨ Let's Connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itskhadijaa">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://itskhadija.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/itskhadija_xo">
+    <img src="https://img.shields.io/badge/Twitter-FF1493?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>  
+
+---
+
+<p align="center">
+💡 Code & Creativity | ✨ Building Pretty Interfaces | 🚀 Exploring Front-End Magic  
+</p>  
+
+<p align="center">
+🎀 _"Make it simple, but significant." – Don Draper_  
+</p>  
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xkhadiga" alt="Profile Views">
+</p>  
