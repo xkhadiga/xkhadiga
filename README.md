@@ -6,7 +6,7 @@ A **Creative Frontend Developer** passionate about **aesthetic UI/UX** and build
 
 ### 📑 About Me  
 - 💻 Frontend Developer dedicated to **clean, intuitive web design**.  
-- 🎨 Love crafting **visually appealing and user-friendly interfaces**.  
+- 🎨 Love crafting **visually appealing and user friendly interfaces**.  
 - 📚 Always learning and improving to stay ahead in **modern web technologies**.  
 - ☕️ Enthusiast of **code, creativity, and a good cup of coffee**.  
 
