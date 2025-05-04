@@ -1,11 +1,11 @@
 ### ✨ Hey There, I'm Khadija!  
 
-A **Creative Front-End Developer** passionate about **aesthetic UI/UX** and building stunning, interactive web experiences with **React.js & JavaScript**. I love making the web **pretty, functional, and fabulous!** 🎀  
+A **Creative Frontend Developer** passionate about **aesthetic UI/UX** and building stunning, interactive web experiences with **React.js & JavaScript**. I love making the web **pretty, functional, and fabulous!** 🎀  
 
 ---
 
 ### 📑 About Me  
-- 💻 Front-End Developer dedicated to **clean, intuitive web design**.  
+- 💻 Frontend Developer dedicated to **clean, intuitive web design**.  
 - 🎨 Love crafting **visually appealing and user-friendly interfaces**.  
 - 📚 Always learning and improving to stay ahead in **modern web technologies**.  
 - ☕️ Enthusiast of **code, creativity, and a good cup of coffee**.  
